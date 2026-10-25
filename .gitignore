@@ -1,0 +1,12 @@
+# Archivos temporales de Word
+~$*
+
+# Compilación y caché de Flutter / Dart / Gradle
+build/
+.dart_tool/
+.gradle/
+.idea/
+*.iml
+local.properties
+.flutter-plugins
+.flutter-plugins-dependencies
